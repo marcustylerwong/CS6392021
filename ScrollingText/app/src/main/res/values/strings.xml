@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">Lorem Ipsum</string>
+    <string name="article_subtitle">Dolor Sit Amet</string>
+    <string name="article_text">
+        Lorem ipsum dolor sit amet, elit propriae eam id, solum constituto efficiendi et vel. In quo liber ignota meliore. Ius vivendum invenire ea, iracundia adversarium et sea. Mei tota ridens cu. Eam at habeo definitionem, amet simul tractatos ea eam.
+        \n\n
+        Ius facer dicunt ei, decore lobortis id eum, pro cu ceteros principes. Graece temporibus no his, ei pri prima tractatos forensibus, nam no nostrum omittam qualisque. An pri postea deserunt consequuntur, ea ius dolorem gloriatur rationibus. Eu augue tollit dolorum usu, sed ei tota legendos. Dicta viderer ei mea. Veniam detraxit sapientem an his, id per sumo audiam perfecto.
+        \n\n
+        Te est officiis democritum, ne sea viderer officiis. Eam integre accusata euripidis ei, alia partiendo ea nec. Ferri officiis signiferumque in sed, viderer eligendi consulatu an sea, ne vel modus petentium euripidis. Ex inermis delicata consequat his, elit propriae accusamus nec ne, ex mei quis delicata. Ut putant epicurei definitiones his.
+        \n\n
+        An his alii mediocrem, est te omnes nemore, no facilis accommodare complectitur eum. Stet vidit ut eam, mel virtute mentitum mnesarchum ne. Eos ei mundi affert partem. Iudico vocent gloriatur no duo, ad nullam dicunt tractatos cum. Ne usu labore dissentias, dictas legimus his ei, vocent blandit omnesque has ea.
+        \n\n
+        Fabellas instructior te eos, ne mei eirmod senserit philosophia. Cum ea adhuc nostro. In per tale reque, ne quis graece iriure sea, cu homero tractatos intellegebat mea. Populo platonem an cum. Quo esse denique an, vis ubique tempor intellegebat an, phaedrum pertinax expetendis ei pri.
+        \n\n
+        No mea mazim principes elaboraret. No nihil impedit dissentiet mea, ubique recteque deterruisset has eu. Inimicus instructior qui an, id cum graece utamur. Cu qui suscipit convenire, id has munere facilisis definiebas. Agam vidisse et eos, mea id ubique primis, quo no alia lorem accusata.
+        \n\n
+        Eu sed diceret phaedrum. Ornatus placerat persecuti vel et, voluptua lobortis mediocrem in sea. Id rebum altera has. Id legimus evertitur cum, amet diceret gloriatur usu et, elitr euripidis ut qui. Debitis corrumpit philosophia vim ei. Ei his everti fabulas scaevola, ne ius labitur maiorum reformidans, cum appetere singulis ea.
+    </string>
+    <string name="add_comment">add_comment</string>
+
+</resources>
