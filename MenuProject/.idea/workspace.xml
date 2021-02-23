@@ -30,6 +30,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
   </component>
   <component name="RecentsManager">
     <key name="android.template.-852151874">
@@ -116,6 +122,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="463" y="558" key="#PSD" timestamp="1614066248244">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="463" y="558" key="#PSD/0.0.2560.1440@0.0.2560.1440" timestamp="1614066248244" />
     <state x="535" y="273" key="AndroidCreateXmlResourceDialog" timestamp="1614056945500">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
