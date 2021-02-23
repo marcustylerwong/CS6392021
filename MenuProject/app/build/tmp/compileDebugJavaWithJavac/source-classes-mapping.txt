@@ -1,0 +1,25 @@
+com/example/menuproject/BuildConfig.java
+ com.example.menuproject.BuildConfig
+com/example/menuproject/FirstFragment.java
+ com.example.menuproject.FirstFragment
+ com.example.menuproject.FirstFragment$1
+ com.example.menuproject.FirstFragment$2
+ com.example.menuproject.FirstFragment$3
+ com.example.menuproject.FirstFragment$4
+ com.example.menuproject.FirstFragment$5
+ com.example.menuproject.FirstFragment$6
+com/example/menuproject/SecondFragment.java
+ com.example.menuproject.SecondFragment
+ com.example.menuproject.SecondFragment$1
+com/example/menuproject/MainActivity.java
+ com.example.menuproject.MainActivity
+ com.example.menuproject.MainActivity$1
+com/example/menuproject/NewActivity.java
+ com.example.menuproject.NewActivity
+ com.example.menuproject.NewActivity$1
+com/example/menuproject/First2Fragment.java
+ com.example.menuproject.First2Fragment
+ com.example.menuproject.First2Fragment$1
+com/example/menuproject/Second2Fragment.java
+ com.example.menuproject.Second2Fragment
+ com.example.menuproject.Second2Fragment$1
